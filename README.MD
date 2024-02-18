@@ -7,3 +7,7 @@ https://cad.onshape.com/documents/b289702058d3b69984c9ded4/w/4e1c5bb6efe28ab1e16
 
 PCB files can be found at EasyEDA
 Waiting for approval to be a public project. Search for TDeck_18650_Charger in EasyEDA. 
+
+![Top ISO](https://github.com/jharvey/T-Deck_JH/blob/master/shell/Enclosure_JH/Full_Assembly_ISO_Front.PNG)
+
+![Bottom ISO](https://github.com/jharvey/T-Deck_JH/blob/master/shell/Enclosure_JH/Full_Assembly_ISO_Back.PNG)
