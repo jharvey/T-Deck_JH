@@ -1,6 +1,6 @@
 LilyGO T-Deck 18650 enclosure
 
-This enclosure can sit in a window charging the batteries either via solar or USB. It charges battery 1 first, then when full it charges battery 2, and eventually battery 3. Any of the 3 batteries can power the TDeck. can operate with no batteries as long as USB is providing power. The circuit board includes
+This enclosure can sit in a window charging the batteries either via solar or USB. It charges battery 1 first, then when bat1 is full, it charges battery 2, and eventually battery 3. Any of the 3 batteries can power the TDeck. It can operate with no batteries as long as USB is providing power. The circuit board includes
 -- over and under voltage protection
 -- short circuit protection 
 -- multi stage charging
